@@ -1,9 +1,17 @@
-### Hi there 👋
-
+# Hi there 👋
+### A bit about me:
 * 🔭 Working as backend developer at Banco Safra
 * 👨‍🎓 Student at [42 São Paulo](https://www.42sp.org.br)
 * 🔰 Learning `C` and `C#` at the moment
 
+---
+
+<div align="center">
+  <a href="https://github.com/sathyagimenes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathyagimenes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyagimenes&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  
 ---
 
 <details><summary><h1>🚀 42 School Projects</h1></summary>
