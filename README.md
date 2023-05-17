@@ -26,6 +26,7 @@
 
 | Module | Project | Language | Description |
 | :---: | :--- | :---: | :---: |
+| Programming logic | [Battleship_game](https://github.com/sathyagimenes/854Prova-Sathya-Gimenes) | C# | Create battleship game. |
 | C# | [Contract_Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
 | Advanced C# | [Tax_Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) | C# | Create a tax calculator. |
 | SQL | [Blood_Donation_Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
