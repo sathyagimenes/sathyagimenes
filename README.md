@@ -26,10 +26,13 @@
 
 | Module | Project | Language | Description |
 | :---: | :--- | :---: | :---: |
+| C# | [Contract_Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
+| SQL | [Blood_Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
+| API | [City_Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Build an API that manages city events. |
 | HTML & CSS | [Songfy](https://github.com/sathyagimenes/Songfy) | HTML & CSS | Create a replica of Spotify's web page. |
-| Javascript | [Livraria](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
+| Javascript | [Library_System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
-| Angula II | [Curriculum manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
+| Angula II | [Curriculum_Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
 
   
 </details>
