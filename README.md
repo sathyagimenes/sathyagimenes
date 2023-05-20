@@ -34,16 +34,16 @@
 
 | Module | Project | Language | Description |
 | :---: | :--- | :---: | :---: |
-| Programming logic | [Battleship_game](https://github.com/sathyagimenes/854Prova-Sathya-Gimenes) | C# | Create battleship game. |
-| C# | [Contract_Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
-| Advanced C# | [Tax_Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) | C# | Create a tax calculator. |
-| SQL | [Blood_Donation_Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
-| Programming techniques | [Blood_Donation_Manager](https://github.com/sathyagimenes/LetsBlood_Evolution) | C# | Create a blood donation manager. |
-| API | [City_Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Build an API that manages city events. |
+| Programming logic | [Battleship game](https://github.com/sathyagimenes/854Prova-Sathya-Gimenes) | C# | Create battleship game. |
+| C# | [Contract Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
+| Advanced C# | [Tax Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) | C# | Create a tax calculator. |
+| SQL | [Blood_Donation Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
+| Programming techniques | [Blood Donation_Manager](https://github.com/sathyagimenes/LetsBlood_Evolution) | C# | Create a blood donation manager. |
+| API | [City Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Build an API that manages city events. |
 | HTML & CSS | [Songfy](https://github.com/sathyagimenes/Songfy) | HTML & CSS | Create a replica of Spotify's web page. |
-| Javascript | [Library_System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
+| Javascript | [Library System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
-| Angula II | [Curriculum_Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
+| Angula II | [Curriculumn Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
 
   
 </details>
