@@ -26,7 +26,7 @@
 | 1 | [pipex](https://github.com/sathyagimenes/pipex) | C | Recreate the pipe functionality. |
 | 2 | [push_swap](https://github.com/sathyagimenes/push_swap) | C | Sorting of a list of random numbers using radix algorithm |
 | 2 | [minishell](https://github.com/sathyagimenes/minishell-2.0) | C | In pairs, create a replica of a shell. |
-| 2 | [philosophers](https://github.com/sathyagimenes/philosophers) | C | Resolve a variation on the famous dining philosophers problem. |
+| 2 | [philosophers](https://github.com/sathyagimenes/philosophers) | C | Resolve a variation of the famous dining philosophers problem. |
   
 </details>
 
