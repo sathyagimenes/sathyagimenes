@@ -17,7 +17,7 @@
 <details><summary><h1>🚀 42 School Projects</h1></summary>
 
 | Phase | Project | Language | Description |
-| :---: | :--- | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | 1 | [libft](https://github.com/sathyagimenes/libft) | C | Create a library of C functions. |
 | 1 | [get_next_line](https://github.com/sathyagimenes/get_next_line) | C | Create a program that reads a single line from a fd. |
 | 1 | [ft_printf](https://github.com/sathyagimenes/ft_printf) | C | Recreation of the printf function. |
@@ -33,7 +33,7 @@
 <details><summary><h1>🚀 Ada Tech | Fullstack</h1></summary>
 
 | Module | Project | Language | Description |
-| :---: | :--- | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | Programming logic | [Battleship game](https://github.com/sathyagimenes/854Prova-Sathya-Gimenes) | C# | Create battleship game. |
 | C# | [Contract Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
 | Advanced C# | [Tax Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) | C# | Create a tax calculator. |
