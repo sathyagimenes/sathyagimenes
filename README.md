@@ -30,7 +30,7 @@
   
 </details>
 
-<details><summary><h1>🚀 Ada Tech | Fullstack</h1></summary>
+<details><summary><h1>🚀 Ada Tech | Fullstack developer course</h1></summary>
 
 | Module | Project | Language | Description |
 | :---: | :---: | :---: | :---: |
@@ -45,5 +45,15 @@
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
 | Angula II | [Curriculum Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
 
+  
+</details>
+  
+<details><summary><h1>🚀 Unicamp | Microsoft Technologies</h1></summary>
+
+| Module | Project | Language | Description |
+| :---: | :---: | :---: | :---: |
+| Version Control | [Conflict management](https://github.com/sathyagimenes/extecamp-git) | git | Simulate and resolve merge conflicts. |
+| Azure Cloud | [Cloud](https://stripe-timimus-281.notion.site/Cloud-70d2562430a6462192a4f5faea43e663) | - | Learn about cloud. |
+| C# | [Jewel Collector Game](https://github.com/sathyagimenes/jewel-collector-game) | C# | Create a jewel collector game. |
   
 </details>
