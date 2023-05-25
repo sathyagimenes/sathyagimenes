@@ -43,7 +43,7 @@
 | HTML & CSS | [Songfy](https://github.com/sathyagimenes/Songfy) | HTML & CSS | Create a replica of Spotify's web page. |
 | Javascript | [Library System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
-| Angula II | [Curriculumn Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
+| Angula II | [Curriculum Manager](https://github.com/sathyagimenes/ProjetoFinalAngular2) | Angular | Create a web application to mange and generate a curriculum. |
 
   
 </details>
