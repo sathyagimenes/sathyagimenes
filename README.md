@@ -55,5 +55,6 @@
 | Version Control | [Conflict management](https://github.com/sathyagimenes/extecamp-git) | git | Simulate and resolve merge conflicts. |
 | Azure Cloud | [Cloud](https://stripe-timimus-281.notion.site/Cloud-70d2562430a6462192a4f5faea43e663) | - | Learn about cloud. |
 | C# | [Jewel Collector Game](https://github.com/sathyagimenes/jewel-collector-game) | C# | Create a jewel collector game. |
+| API <br> (extra class) | [Zip Code Search](https://github.com/sathyagimenes/ConsultaDeCep) | C# | Create a web API service to search and save Zip Codes. |
   
 </details>
