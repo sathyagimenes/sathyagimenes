@@ -52,9 +52,10 @@
 
 | Module | Project | Language | Description |
 | :---: | :---: | :---: | :---: |
-| Version Control | [Conflict management](https://github.com/sathyagimenes/extecamp-git) | git | Simulate and resolve merge conflicts. |
+| Version Control | [Merge practice](https://github.com/sathyagimenes/extecamp-git) <br> [Rebase practice](https://github.com/sathyagimenes/rebase-ex) | git | Pactice of version control with merge and rebase. Pactice of conflict management. |
 | Azure Cloud | [Cloud](https://stripe-timimus-281.notion.site/Cloud-70d2562430a6462192a4f5faea43e663) | - | Learn about cloud. |
 | C# | [Jewel Collector Game](https://github.com/sathyagimenes/jewel-collector-game) | C# | Create a jewel collector game. |
 | API <br> (extra class) | [Zip Code Search](https://github.com/sathyagimenes/ConsultaDeCep) | C# | Create a web API service to search and save Zip Codes. |
+| Agile | [Notion notes](https://stripe-timimus-281.notion.site/Gerenciamento-gil-c477c9835d074ff09f836121c83eb87d?pvs=4) | - | My notes regarding agile management classes. |
   
 </details>
