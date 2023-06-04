@@ -36,10 +36,10 @@
 | :---: | :---: | :---: | :---: |
 | Programming logic | [Battleship game](https://github.com/sathyagimenes/854Prova-Sathya-Gimenes) | C# | Create battleship game. |
 | C# | [Contract Manager](https://github.com/sathyagimenes/Financeira_Aula7) | C# | Create a contract manager. |
-| Advanced C# | [Tax Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) | C# | Create a tax calculator. |
+| Advanced C# | [Tax Calculator](https://github.com/sathyagimenes/TaxCalculator_Project) <br> [SOLID Principles](https://stripe-timimus-281.notion.site/SOLID-22e5718d8c6b4f5aa41e8d1bf77a57d7?pvs=4) | C# | Create a tax calculator program. <br> My study notes on SOLID. |
 | SQL | [Blood Donation Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
 | Programming techniques | [Blood Donation Manager](https://github.com/sathyagimenes/LetsBlood_Evolution) | C# | Create a blood donation manager. |
-| API | [Notes](https://stripe-timimus-281.notion.site/Web-API-d6c47b4a20dc44af862800355e3dead5) <br> [City Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Build an API that manages city events. |
+| API | [Notes on API](https://stripe-timimus-281.notion.site/Web-API-d6c47b4a20dc44af862800355e3dead5) <br> [City Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Study notes about APIs. <br> Build an API that manages city events. |
 | HTML & CSS | [Songfy](https://github.com/sathyagimenes/Songfy) | HTML & CSS | Create a replica of Spotify's web page. |
 | Javascript | [Library System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
