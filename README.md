@@ -40,7 +40,7 @@
 | SQL | [Blood Donation Database](https://github.com/sathyagimenes/LetsBlood) | SQL | Create a database for blood donation. |
 | Programming techniques | [Blood Donation Manager](https://github.com/sathyagimenes/LetsBlood_Evolution) | C# | Create a blood donation manager. |
 | API | [Notes about API](https://stripe-timimus-281.notion.site/Web-API-d6c47b4a20dc44af862800355e3dead5) <br> [City Events](https://github.com/sathyagimenes/WebAPI_ProjetoFinal) | C# | Study notes about APIs. <br> Build an API that manages city events. |
-| Test Automation | [Notes about Test Automation](https://stripe-timimus-281.notion.site/Testes-Automatizados-09373724b134431b87fb27abd7a79cee?pvs=4) | C# | Study notes about Test Automation. |
+| Automated Testing | [Notes about Automated Testing](https://stripe-timimus-281.notion.site/Testes-Automatizados-09373724b134431b87fb27abd7a79cee?pvs=4) | C# | Study notes about Automated Testing. |
 | HTML & CSS | [Songfy](https://github.com/sathyagimenes/Songfy) | HTML & CSS | Create a replica of Spotify's web page. |
 | Javascript | [Library System](https://github.com/sathyagimenes/LivrariaJS) | Javascript | Create a library system. |
 | Angular I | [Curriculum](https://github.com/sathyagimenes/ProjetoFinalAngularI) | Angular | Create a curriculum on a web page. |
