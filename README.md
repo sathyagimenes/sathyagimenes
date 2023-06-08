@@ -5,14 +5,20 @@
 * 🔰 Learning `C` and `C#` at the moment
 
 ---
-
-<div align="center">
-  <a href="https://github.com/sathyagimenes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathyagimenes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyagimenes&layout=compact&langs_count=7&theme=onedark"/>
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-     <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sathyagimenes&theme=onedark"/>
-  </a>
+  
+  <table>
+			<td>
+				<a href="https://github.com/sathyagimenes">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/sathyagimenes?cardType=level&theme=tokyonight" width="442" height="200">
+				</a> 
+			</td>
+			<td>
+				<a href="https://github.com/sathyagimenes?tab=repositories">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyagimenes&layout=compact&theme=tokyonight" width="420" height="200" backgroung-colo="transparent">
+				</a>
+			</td>
+		</tr>
+	</table>
 </div>
   
 ---
@@ -33,6 +39,8 @@
   
 </details>
 
+---
+
 <details><summary><h1>🚀 Ada Tech | Fullstack developer course</h1></summary>
 
 | Module | Project | Language | Description |
@@ -51,7 +59,9 @@
 
   
 </details>
-  
+
+---
+
 <details><summary><h1>🚀 Unicamp | Microsoft Technologies</h1></summary>
 
 | Module | Project | Language | Description |
