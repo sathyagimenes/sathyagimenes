@@ -6,7 +6,8 @@
 
 ---
   
-  <table>
+  <table align="center">
+	<tr>
 			<td>
 				<a href="https://github.com/sathyagimenes">
 					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/sathyagimenes?cardType=level&theme=tokyonight" width="442" height="200">
