@@ -72,5 +72,6 @@
 | C# | [Jewel Collector Game](https://github.com/sathyagimenes/jewel-collector-game) | C# | Create a jewel collector game. |
 | API <br> (extra class) | [Zip Code Search](https://github.com/sathyagimenes/ConsultaDeCep) | C# | Create a web API service to search and save Zip Codes. |
 | Agile | [Notes about Agile](https://stripe-timimus-281.notion.site/Gerenciamento-gil-c477c9835d074ff09f836121c83eb87d?pvs=4) <br> [Kanban](https://github.com/users/sathyagimenes/projects/5) | - | My notes regarding agile management classes. <br> Kanban board practice. |
+| Security | [Notes about Security](https://stripe-timimus-281.notion.site/Seguran-a-de-software-d6b9935b8a5f4216bf682087db71111b?pvs=4) | - | My notes regarding safe programming. |
   
 </details>
