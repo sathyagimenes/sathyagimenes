@@ -33,10 +33,12 @@
 | 1 | [ft_printf](https://github.com/sathyagimenes/ft_printf) | C | Recreation of the printf function. |
 | 1 | [Born2beroot](https://stripe-timimus-281.notion.site/Born2BeRoot-85b1083f61224f57a946e7bcbfffa6f4) | Shell | Create and learn about virtual machines. |
 | 1 | [So long](https://github.com/sathyagimenes/So_Long_Game) | C | Create a 2D Game. |
-| 1 | [Pipex](https://github.com/sathyagimenes/pipex) | C | Recreate the pipe functionality. |
+| 1 | [Pipex](https://github.com/sathyagimenes/pipex) | C <br> Shell | Recreate the pipe functionality. |
 | 2 | [Push swap](https://github.com/sathyagimenes/push_swap) | C | Sorting of a list of random numbers using radix algorithm |
-| 2 | [Minishell](https://github.com/sathyagimenes/minishell-2.0) | C | In pairs, create a replica of a shell. |
-| 2 | [Philosophers](https://github.com/sathyagimenes/philosophers) | C | Resolve a variation of the famous dining philosophers problem. |
+| 2 | [Minishell](https://github.com/sathyagimenes/minishell-2.0) | C <br> Shell | In pairs, create a replica of a shell. |
+| 2 | [Philosophers](https://github.com/sathyagimenes/philosophers) | C | Learn about threads and solve a variation of <br> the famous dining philosophers problem. |
+| 2 | [Netpractice](https://stripe-timimus-281.notion.site/Redes-e1dd98a4617c4fe281372d600e628010?pvs=4) | - | Learn about networks and solve network problems. |
+| 2 | [Cub3D](https://github.com/BrianFs011/cub3D) | C | WIP: In pairs, create a replica of the [Wolfenstein](https://en.wikipedia.org/wiki/Wolfenstein_3D) game. |
   
 </details>
 
