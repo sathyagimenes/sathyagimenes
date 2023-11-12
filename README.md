@@ -39,6 +39,7 @@
 | 2 | [Philosophers](https://github.com/sathyagimenes/philosophers) | C | Learn about threads and solve a variation of <br> the famous dining philosophers problem. |
 | 2 | [Netpractice](https://stripe-timimus-281.notion.site/Redes-e1dd98a4617c4fe281372d600e628010?pvs=4) | - | Learn about networks and solve network problems. |
 | 2 | [Cub3D](https://github.com/BrianFs011/cub3D) | C | WIP: In pairs, create a replica of the [Wolfenstein](https://en.wikipedia.org/wiki/Wolfenstein_3D) game. |
+| 3 | [C++ Piscine](https://github.com/sathyagimenes/cpp_piscine) | C++ | Learn Object-Oriented Programming in C++ and solve a list of exercises. |
   
 </details>
 
