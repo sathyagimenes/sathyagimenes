@@ -41,6 +41,7 @@
 | 2 | [Cub3D](https://github.com/sathyagimenes/cub3D) | C | In pairs, create a replica of the [Wolfenstein](https://en.wikipedia.org/wiki/Wolfenstein_3D) game. |
 | 3 | [C++ Piscine](https://github.com/sathyagimenes/cpp_piscine) <br> [C++ Theory](https://stripe-timimus-281.notion.site/C-1d29834f88f641f88da156e69b3ed750) | C++ | Learn Object-Oriented Programming in C++ and solve a list of exercises. |
 | 3 | [Inception](https://github.com/sathyagimenes/inception) <br> [Docker Theory](https://stripe-timimus-281.notion.site/Inception-dba7ff19868040cf92aae98d69fba25b?pvs=4) | Dockerfile | A docker network with NginX, Wordpress and MariaDB containers. |
+| 3 | [Webserv](https://github.com/sathyagimenes/webserv) <br> [Web Server Theory](https://stripe-timimus-281.notion.site/Webserv-34a04a0d462d4cff9e5cabd5c0f2fb89?pvs=4) | C++ <br> HTML/CSS/JS | In pairs, create a simple HTTP server in C++. |
   
 </details>
 
