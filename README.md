@@ -1,8 +1,7 @@
 # Hi there 👋
 ### A bit about me:
 * 🔭 Working as backend developer at Banco Safra
-* 👨‍🎓 Student at [42 São Paulo](https://www.42sp.org.br)
-* 🔰 Learning `C` and `C#` at the moment
+* 👨‍🎓 Human Coder at [42 São Paulo](https://www.42sp.org.br)
 
 ---
   
@@ -42,6 +41,7 @@
 | 3 | [C++ Piscine](https://github.com/sathyagimenes/cpp_piscine) <br> [C++ Theory](https://stripe-timimus-281.notion.site/C-1d29834f88f641f88da156e69b3ed750) | C++ | Learn Object-Oriented Programming in C++ and solve a list of exercises. |
 | 3 | [Inception](https://github.com/sathyagimenes/inception) <br> [Docker Theory](https://stripe-timimus-281.notion.site/Inception-dba7ff19868040cf92aae98d69fba25b?pvs=4) | Dockerfile | A docker network with NginX, Wordpress and MariaDB containers. |
 | 3 | [Webserv](https://github.com/sathyagimenes/webserv) <br> [Web Server Theory](https://stripe-timimus-281.notion.site/Webserv-34a04a0d462d4cff9e5cabd5c0f2fb89?pvs=4) | C++ <br> HTML/CSS/JS | In pairs, create a simple HTTP server in C++. |
+| 3 | [Transcendence](https://github.com/sathyagimenes/transcendence) | Django <br> Javascript | Create a web application of the Pong Game. |
   
 </details>
 
