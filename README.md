@@ -12,11 +12,6 @@
 					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/sathyagimenes?cardType=level&theme=tokyonight" width="442" height="200">
 				</a> 
 			</td>
-			<td>
-				<a href="https://github.com/sathyagimenes?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyagimenes&layout=compact&theme=tokyonight" width="420" height="200" backgroung-colo="transparent">
-				</a>
-			</td>
 		</tr>
 	</table>
 </div>
